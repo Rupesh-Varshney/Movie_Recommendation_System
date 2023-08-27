@@ -50,8 +50,8 @@ Implement a user interface (web app, mobile app, or command-line interface) for 
 
 Invite users to test the recommendation system and gather feedback.
 Monitor user interactions and collect more data for continuous improvement.
-9. Conclusion:
 
+9. Conclusion:
 Summarize the achievements of the project.
 Discuss the strengths and limitations of the recommendation system.
 Reflect on what you've learned during the project.
