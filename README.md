@@ -1,8 +1,8 @@
 # Movie_Recommendation_System
 
-Building a movie recommendation system is a popular project in the field of data science and machine learning. It involves leveraging user data and movie information to create personalized movie recommendations for users. Here's a step-by-step breakdown of the project, from requirements to conclusion:
+Building a movie recommendation system is a popular project in the field of data science and machine learning. It involves leveraging user data and movie information to create personalized movie recommendations for users. Here's a step-by-step breakdown of the project, from requirements to conclusion.
 
-<b>1. Requirements Gathering:</b>
+1. Requirements Gathering:
 
 Understand the project's scope and goals.
 Identify the data sources: You will need movie metadata (titles, genres, release dates, etc.) and user interaction data (ratings, views, etc.).
